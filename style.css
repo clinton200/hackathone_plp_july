@@ -215,7 +215,7 @@ footer .social-media a:hover {
 
 
 /* Responsive Design */
-@media (max-width: 768px) {
+@media (max-width: 700px) {
     .introduction h1{
         font-size: 20px;
     }
