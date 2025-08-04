@@ -40,6 +40,6 @@ To deploy using GitHub Pages
 📬 Contact
 Created by Clinton Ouma Ndalo
 
-Email: oumaclinton00@gmail.com
+Email: oumaclinton004@gmail.com
 
 GitHub: clinton200
